@@ -1,3 +1,10 @@
+# Result
+![image](https://github.com/vhtu/covid-19-react/img/result.png)
+
+# Follow the instructions at Covid-19 Tracker - Lập trình ứng dụng theo dõi Covid-19 bằng ReactJS, Material UI, Highcharts (2021)
+
+https://www.youtube.com/watch?v=EyV9fqoWhzc
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
