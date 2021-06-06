@@ -1,5 +1,5 @@
 # Result
-![image](https://github.com/vhtu/covid-19-react/img/result.png)
+![image](https://github.com/vhtu/covid-19-react/blob/master/img/result.png)
 
 # Follow the instructions at Covid-19 Tracker - Lập trình ứng dụng theo dõi Covid-19 bằng ReactJS, Material UI, Highcharts (2021)
 
